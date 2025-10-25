@@ -1,3 +1,3 @@
-año =  input("¿En que año naciste?")
-edad = (2025 - año)
-print("Tienes ", edad "años.")
+año =  int(input("¿En que año naciste?"))
+edad = (año-2025)
+print("Tienes ", edad, "años.")
