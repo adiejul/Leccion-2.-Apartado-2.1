@@ -1,3 +1,3 @@
 año =  int(input("¿En que año naciste?"))
-edad = (año-2025)
+edad = (2025-año)
 print("Tienes ", edad, "años.")
