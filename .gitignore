@@ -1,0 +1,13 @@
+#ignorar archivos sensibles
+token.txt
+
+#ignorar entornos virtuales
+venv/
+.env/
+
+#pdf con los enunciados
+ejercicios_lección_2.pdf
+
+#readme_con la guia para realizar la actividad
+enunciado_red_me.md
+
